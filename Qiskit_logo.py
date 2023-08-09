@@ -1,3 +1,5 @@
+# Build a circuit with 4 qubits for the Qiskit logo
+
 from qiskit import QuantumCircuit
 from qiskit.visualization import plot_state_qsphere
 
